@@ -1,0 +1,93 @@
+[
+  {
+    "id": "podcast-1",
+    "title": "Podcast Episode 1",
+    "youtubeUrl": "https://youtu.be/gEtRAlRnOwI?si=bnKmnDR5iDiYgUjp",
+    "category": "horizontal",
+    "description": "An edited podcast episode."
+  },
+  {
+    "id": "podcast-2",
+    "title": "Podcast Episode 2",
+    "youtubeUrl": "https://youtu.be/-FtHbr-fKq8?si=gI3V2houpw2TzFrk",
+    "category": "horizontal",
+    "description": "An edited podcast episode."
+  },
+  {
+    "id": "podcast-3",
+    "title": "Podcast Episode 3",
+    "youtubeUrl": "https://youtu.be/pkOuaxfC-r4?si=kdOMkexmu6r8XyKh",
+    "category": "horizontal",
+    "description": "An edited podcast episode."
+  },
+  {
+    "id": "podcast-4",
+    "title": "Podcast Episode 4",
+    "youtubeUrl": "https://youtu.be/hU0GgovhtQY?si=w4lIQ57rZbJSzPls",
+    "category": "horizontal",
+    "description": "An edited podcast episode."
+  },
+  {
+    "id": "short-1",
+    "title": "Shorts & Reels 1",
+    "youtubeUrl": "https://youtube.com/shorts/-_yOIKctO7M?feature=share",
+    "category": "vertical",
+    "description": "Shorts & Reels"
+  },
+  {
+    "id": "short-2",
+    "title": "Shorts & Reels 2",
+    "youtubeUrl": "https://youtube.com/shorts/LmKlYZXYVAk?feature=share",
+    "category": "vertical",
+    "description": "Shorts & Reels"
+  },
+  {
+    "id": "short-3",
+    "title": "Shorts & Reels 3",
+    "youtubeUrl": "https://youtube.com/shorts/-rd1pMz4KHQ",
+    "category": "vertical",
+    "description": "Shorts & Reels"
+  },
+  {
+    "id": "short-4",
+    "title": "Shorts & Reels 4",
+    "youtubeUrl": "https://youtube.com/shorts/z68OOm3JGhM?feature=share",
+    "category": "vertical",
+    "description": "Shorts & Reels"
+  },
+  {
+    "id": "short-5",
+    "title": "Shorts & Reels 5",
+    "youtubeUrl": "https://youtube.com/shorts/6PTJUFz5P-0?feature=share",
+    "category": "vertical",
+    "description": "Shorts & Reels"
+  },
+  {
+    "id": "ai-video-1",
+    "title": "AI Video 1",
+    "youtubeUrl": "https://youtube.com/shorts/StJlsRzdQkQ?feature=share",
+    "category": "ai-video",
+    "description": "AI Video"
+  },
+  {
+    "id": "ai-video-2",
+    "title": "AI Video 2",
+    "youtubeUrl": "https://youtube.com/shorts/AIki2VKD2fg?feature=share",
+    "category": "ai-video",
+    "description": "AI Video"
+  },
+  {
+    "id": "ai-video-3",
+    "title": "AI Video 3",
+    "youtubeUrl": "https://youtube.com/shorts/9SPV3wglyVA?feature=share",
+    "category": "ai-video",
+    "description": "AI Video"
+  },
+  {
+    "id": "ai-video-4",
+    "title": "AI Video 4",
+    "youtubeUrl": "https://youtube.com/shorts/YZoAJYpmnBY?feature=share",
+    "category": "ai-video",
+    "description": "AI Video"
+  }
+]
