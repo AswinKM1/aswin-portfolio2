@@ -15,8 +15,16 @@ export default function Home() {
     <main className="min-h-screen">
       <Hero />
       
-      {/* Works Section Header */}
-      <div className="relative z-30 w-full max-w-7xl mx-auto px-6 mt-8 mb-8">
+      {/* Works Area with Ambient Background */}
+      <div className="relative">
+        <div className="absolute inset-0 pointer-events-none overflow-hidden z-0 flex justify-center items-center">
+          <div className="absolute top-[20%] left-[-10%] w-[60vw] h-[60vw] max-w-[800px] max-h-[800px] bg-glow-purple/10 rounded-full blur-[120px] mix-blend-screen" />
+          <div className="absolute top-[60%] right-[-10%] w-[50vw] h-[50vw] max-w-[600px] max-h-[600px] bg-glow-cyan/10 rounded-full blur-[100px] mix-blend-screen" />
+        </div>
+
+        <div className="relative z-10 pb-8 md:pb-16">
+          {/* Works Section Header */}
+          <div className="relative z-30 w-full max-w-7xl mx-auto px-6 mt-8 mb-4 md:mb-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -45,6 +53,8 @@ export default function Home() {
       {aiVideos.length > 0 && (
         <VideoGrid title="AI Videos" videos={aiVideos} isVertical={true} />
       )}
+        </div>
+      </div>
 
       <Footer />
     </main>
